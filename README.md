@@ -3,8 +3,8 @@
 Seat-Chart-Generator is a seat chart app made in Angular 6, an inspiration from  [jQuery Seat Charts](https://github.com/mateuszmarkowski/jQuery-Seat-Charts)
 
 ## Demo Link
-[Stackblitz Demo Link](https://angular-yw5azm.stackblitz.io)
-
+[Bus Seat Layout](https://angular-yw5azm.stackblitz.io) \
+[Hall/Theatere Layout](https://angular-awklpd.stackblitz.io/)
 ## Dependencies 
 [Bootstrap](https://getbootstrap.com/) \
 [Ngx-bootstrap](https://valor-software.com/ngx-bootstrap)
